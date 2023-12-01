@@ -2,13 +2,13 @@
 
 ## Introduction
 - This is my repo for the FizzBuzz Exercise in Makers Module 3 - Mobile Applications: Kotlin Fundamentals.
-- This project uses my new Kotlin knowledge to test drive a FizzBuzz program in Kotlin.
+- This project uses my new Kotlin knowledge to test drive a FizzBuzz program.
 
 ## Objectives
 - [x] Test-drive a Fizzbuzz function in Kotlin.
 - [x] The function should take a max number and return a string.
 - [x] The string should list out the numbers counting up to and including the given max number, substituting Fizz where the number is divisible by 3, Buzz where it is divisible by 5, and FizzBuzz where it is divisible by both 3 and 5.
-- [x] On completion the code should pass the following acceptance criteria:
+- [x] On completion, the code should pass the following acceptance criteria:
 ```shell
 CALLING:
   fizzbuzz(100)
